@@ -1,0 +1,28 @@
+C:\Users\moh\source\repos\example 2\example 2\obj\Debug\net6.0\example 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moh\source\repos\example 2\example 2\obj\Debug\net6.0\example 2.AssemblyInfoInputs.cache
+C:\Users\moh\source\repos\example 2\example 2\obj\Debug\net6.0\example 2.AssemblyInfo.cs
+C:\Users\moh\source\repos\example 2\example 2\obj\Debug\net6.0\example 2.csproj.CoreCompileInputs.cache
+C:\Users\moh\source\repos\example 2\example 2\bin\Debug\net6.0\example 2.exe
+C:\Users\moh\source\repos\example 2\example 2\bin\Debug\net6.0\example 2.deps.json
+C:\Users\moh\source\repos\example 2\example 2\bin\Debug\net6.0\example 2.runtimeconfig.json
+C:\Users\moh\source\repos\example 2\example 2\bin\Debug\net6.0\example 2.dll
+C:\Users\moh\source\repos\example 2\example 2\bin\Debug\net6.0\example 2.pdb
+C:\Users\moh\source\repos\example 2\example 2\obj\Debug\net6.0\example 2.dll
+C:\Users\moh\source\repos\example 2\example 2\obj\Debug\net6.0\refint\example 2.dll
+C:\Users\moh\source\repos\example 2\example 2\obj\Debug\net6.0\example 2.pdb
+C:\Users\moh\source\repos\example 2\example 2\obj\Debug\net6.0\example 2.genruntimeconfig.cache
+C:\Users\moh\source\repos\example 2\example 2\obj\Debug\net6.0\ref\example 2.dll
+C:\Users\moh\source\repos\example 2 linq\example 2\bin\Debug\net6.0\example 2.exe
+C:\Users\moh\source\repos\example 2 linq\example 2\bin\Debug\net6.0\example 2.deps.json
+C:\Users\moh\source\repos\example 2 linq\example 2\bin\Debug\net6.0\example 2.runtimeconfig.json
+C:\Users\moh\source\repos\example 2 linq\example 2\bin\Debug\net6.0\example 2.dll
+C:\Users\moh\source\repos\example 2 linq\example 2\bin\Debug\net6.0\example 2.pdb
+C:\Users\moh\source\repos\example 2 linq\example 2\obj\Debug\net6.0\example 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moh\source\repos\example 2 linq\example 2\obj\Debug\net6.0\example 2.AssemblyInfoInputs.cache
+C:\Users\moh\source\repos\example 2 linq\example 2\obj\Debug\net6.0\example 2.AssemblyInfo.cs
+C:\Users\moh\source\repos\example 2 linq\example 2\obj\Debug\net6.0\example 2.csproj.CoreCompileInputs.cache
+C:\Users\moh\source\repos\example 2 linq\example 2\obj\Debug\net6.0\example 2.dll
+C:\Users\moh\source\repos\example 2 linq\example 2\obj\Debug\net6.0\refint\example 2.dll
+C:\Users\moh\source\repos\example 2 linq\example 2\obj\Debug\net6.0\example 2.pdb
+C:\Users\moh\source\repos\example 2 linq\example 2\obj\Debug\net6.0\example 2.genruntimeconfig.cache
+C:\Users\moh\source\repos\example 2 linq\example 2\obj\Debug\net6.0\ref\example 2.dll
